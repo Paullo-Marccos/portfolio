@@ -1,4 +1,3 @@
-
 var usuario = "paullo.marccos0401";
 var dominio = "gmail.com";
 var endereco = usuario + "@" + dominio;
@@ -20,6 +19,7 @@ botaoCopiar.addEventListener("click", function () {
     avisoCopia.textContent = "Meu e-mail: " + endereco;
   });
 });
+
 
 
 
