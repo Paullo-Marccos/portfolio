@@ -10,7 +10,7 @@
 
 ---
 
-## 📂 Projetos (10 no total)
+## 📂 Projetos
 
 ### 🎮 Jogos (2)
 | Projeto | Descrição | Tecnologias | Demo | Código |
