@@ -66,6 +66,3 @@ Crio sites e jogos com HTML, CSS e JavaScript, colocando em prática o que apren
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
