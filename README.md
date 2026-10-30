@@ -6,7 +6,7 @@
 
 ## 🌐 Portfolio Online
 
-**[paullo-marccos.github.io/Projetos](https://paullo-marccos.github.io/Projetos/)**
+**[paullo-marccos.github.io/portfolio](https://paullo-marccos.github.io/portfolio/)**
 
 ---
 
@@ -66,3 +66,6 @@ Crio sites e jogos com HTML, CSS e JavaScript, colocando em prática o que apren
 
 ---
 
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
